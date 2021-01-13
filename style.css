@@ -2,6 +2,7 @@ body
 {
     background-image: url(../project/img/pubg.jpg);
     background-size: cover;
+    padding: 10px;
 }
 
 .container
@@ -13,12 +14,14 @@ body
 
 .vid
 {
-    width: 1000px;
+    width: 80%;
+    border-radius: 5%;
 }
 
 .video
 {
     text-align: center;
+    justify-content: center;
 }
 
 .page-item
