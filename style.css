@@ -19,8 +19,8 @@ body
 
 .vid
 {
-    width: 80%;
-    border-radius: 3%;
+    width: 100%;
+    border-radius: 2%;
 }
 
 .video
@@ -39,4 +39,9 @@ body
     margin: 10px;
     padding: 10px;
     justify-content: center;
+}
+
+a:visited, a:active
+{
+    color: black;
 }
