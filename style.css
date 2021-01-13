@@ -7,6 +7,8 @@ body
 .container
 {
     justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .vid
@@ -15,6 +17,11 @@ body
 }
 
 .video
+{
+    text-align: center;
+}
+
+.page-item
 {
     text-align: center;
 }
