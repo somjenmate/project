@@ -6,6 +6,15 @@ body
 
 .container
 {
-    margin-left: auto;
-    margin-right: auto;
+    justify-content: center;
+}
+
+.vid
+{
+    width: 1000px;
+}
+
+.video
+{
+    text-align: center;
 }
